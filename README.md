@@ -195,7 +195,7 @@ We welcome community suggestions, updates, and additions!
 
 1. **Fork** this repository.
 2. Edit `README.md` to add your suggested open-source software or SaaS service.
-3. Ensure open-source entries include a valid GitHub Stars_Badge linked to `/stargazers`.
+3. Ensure open-source entries include a valid GitHub_Stars_Badge linked to `/stargazers`.
 4. Ensure SaaS additions adhere strictly to specific starting prices, exact free plan / trial limitations, and company scale metrics.
 5. Submit a **Pull Request** detailing the reasons for the addition.
 
