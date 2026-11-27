@@ -1,6 +1,6 @@
 # Awesome-Media-Automation-Home-Server-Management
 
-# Top Media Automation & Home Server Management Ecosystem
+## Top Media Automation & Home Server Management Ecosystem
 
 **Curated List of SaaS Products & Open-Source GitHub Projects**  
 *Focused on Automated Media Acquisition, Library Organization & Request Management*  
